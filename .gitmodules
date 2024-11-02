@@ -1,0 +1,6 @@
+[submodule "spCoinHHContractTests"]
+	path = spCoinHHContractTests
+	url = git@github.com:sponsorCoinAdmin/spCoinHHContractTests.git
+[submodule "dev-contracts-spcoin"]
+	path = dev-contracts-spcoin
+	url = git@github.com:sponsorCoinAdmin/dev-contracts-spcoin.git
