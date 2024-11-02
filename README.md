@@ -1,11 +1,4 @@
-# spcoin-all-project-modules
-All Projects required for the sponsorCoin System
-
-Installation_
-git clone --recurse-submodules git@github.com:sponsorCoinAdmin/SPCOIN-PROJECT-MODULES.git
-
-
-# ToDo spCoinDocs *** Add the Following Structures to this README.md File 
+# ToDo spcoin-all-project-modules *** Modify the Following Structures to this README.md File 
 ---
 ### Directory of Information
 Find your way using the directory below:
@@ -50,17 +43,21 @@ Read all copyright clauses and information before continuing to download and/or 
 - Version: 1.0.0
 - Release Date: Sept 1st 2023
 - Purpose: [<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main) is a WIP GUI front end package to demonstrate blockchain connectivity and transactions.
-- Description: [<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main) package is a front end GUI package mimicking Uniswap's appearance and utilizing Uniswap’s SDK to perform price matching and trade transactions. 
+- Description: [<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main) package is a front end GUI package mimicking Uniswap's appearance and utilizing Uniswap’s SDK
+-
+-  All Projects required for the sponsorCoin Systemto perform price matching and trade transactions. 
  - - - -
 ### Installation Details<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
-- Clone the package to your local computer:
+- Clone the package to your local computer: git clone --recurse-submodules git@github.com:sponsorCoinAdmin/SPCOIN-PROJECT-MODULES.git
 - Change your current directory to {root installaction}/[<b>spCoinHardHatTests</b>](https://github.com/sponsorCoinAdmin/spCoinHardHatTests/tree/main)
 - Next install the text menu driven system as follows:
     - execute the following command: <b>'. ./[<b>spCoinEnvSetup.sh</b>'](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/spCoinEnvSetup.sh)</b>
 - <b>Notes:
     - This installation assumes operation under bash or gitBash for windows</b>
     - The Menu System modifies the ~/.gitbash.rc file to and an environment path link
+    - 
+
 ### Environment setup<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/setup6.png" width="7%" align= "right">
 - Setup for the simple swap test requires setting up environment .env file.
 - A sample configuration file <b>.env</b> exists in  project's home directory <b>/spCoinHardHatTests</b>.
