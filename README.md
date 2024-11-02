@@ -21,7 +21,7 @@ Robert Lanson | sponsorcoin@yahoo.com
 
 - - - -
 ### Copyright Agreement<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/policeman.png" width="5%" align= "right">
-<b>Package [<b>SPCOIN-PROJECT-MODULES ©</b> 
+<b>Package SPCOIN-PROJECT-MODULES ©</b> 
 
 Read all copyright clauses and information before continuing to download and/or interact with this software. All interaction and use of such software hereon forward assumes complete agreement to all copyright terms and general conditions as specified. 
 
@@ -42,15 +42,15 @@ Read all copyright clauses and information before continuing to download and/or 
 ### About<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/aboutMickey.png" width="6%" align= "right">
 - Version: 1.0.0
 - Release Date: Sept 1st 2023
-- Purpose: [<b>SPCOIN-PROJECT-MODULES is a WIP GUI front end package to demonstrate blockchain connectivity and transactions.
-- Description: [<b>SPCOIN-PROJECT-MODULES package is a front end GUI package mimicking Uniswap's appearance and utilizing Uniswap’s SDK
+- Purpose: SPCOIN-PROJECT-MODULES is a WIP GUI front end package to demonstrate blockchain connectivity and transactions.
+- Description: SPCOIN-PROJECT-MODULES package is a front end GUI package mimicking Uniswap's appearance and utilizing Uniswap’s SDK
 -
 -  All Projects required for the sponsorCoin Systemto perform price matching and trade transactions. 
  - - - -
 ### Installation Details<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/installation.png" width="7%" align= "right">
 - Please Note: For a comprehensive demonstration of the installation process, refer to the 'Video Tutorial' section below.
 - Clone the package to your local computer: git clone --recurse-submodules git@github.com:sponsorCoinAdmin/SPCOIN-PROJECT-MODULES.git
-- Change your current directory to {root installaction}/[<b>SPCOIN-PROJECT-MODULES
+- Change your current directory to {root installaction}/SPCOIN-PROJECT-MODULES
 - Next install the text menu driven system as follows:
     - execute the following command: <b>'. ./[<b>spCoinEnvSetup.sh</b>'](https://github.com/sponsorCoinAdmin/spCoinSetupEnv/blob/main/spCoinEnvSetup.sh)</b>
 - <b>Notes:
@@ -95,7 +95,7 @@ It is recommended to read the contents of the scripts to be assured of the insta
 After a new Linux/gitBash successful installation you can start the program directly in two ways as follows:
 1. cd into the Package [<b>/SPCOIN-PROJECT-MODULES and execute the command <b>'npm start'</b>.
 2. Running the test menu display, <b>'tm'</b>, command will list the testing options.
-   Running the alias menu command <b>'hhtest'</b> will start the [<b>SPCOIN-PROJECT-MODULES package test.
+   Running the alias menu command <b>'hhtest'</b> will start the SPCOIN-PROJECT-MODULES package test.
  - - - -
 ### Video Tutorial<img src="https://github.com/sponsorCoinAdmin/spCoinImages/blob/main/video.png" width="5%" align= "right">
 - Comprehensive Video Tutorial Currently Under Construction. Resource will be posted as soon as it is ready for publication.
